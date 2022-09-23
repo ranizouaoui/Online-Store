@@ -33,7 +33,7 @@ const firebaseConfig = {
 ...
 };
 ```
-<a href="https://vueschool.io/">Setting up a Firebase project and registering apps</a>
+<a href="https://firebase.google.com/docs/projects/learn-more">Setting up a Firebase project and registering apps</a>
 ### Starting Server
 ```
 npm run serve
