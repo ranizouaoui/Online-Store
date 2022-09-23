@@ -165,5 +165,5 @@ This sample uses the following library.
 # YouTube video for the website
 
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/nxwZzrYOx2c/0.jpg)](https://www.youtube.com/watch?v=nxwZzrYOx2c "Vue.Js Website")
+[![Everything Is AWESOME](https://img.youtube.com/vi/yjawzRhKpOs/0.jpg)](https://www.youtube.com/watch?v=yjawzRhKpOs "Vue.Js Website")
 
