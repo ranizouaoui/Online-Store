@@ -24,7 +24,16 @@ Perform the following steps:
 ```
 npm install
 ```
+6- configurer Firebase.js.<br/>
 
+ 
+```
+//  just connect to Firebase then create a project and copy the configuration function
+const firebaseConfig = {
+...
+};
+```
+<a href="https://vueschool.io/">Setting up a Firebase project and registering apps</a>
 ### Starting Server
 ```
 npm run serve
