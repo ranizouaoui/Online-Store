@@ -6,9 +6,9 @@
 ## Preface
 This is my first web project which is an online store. I created the site with vuejs and firebase. In addition, the project is a practical application to the training I followed on the "<a href="https://vueschool.io/">Vue school</a>" site.
 
-<h4> Why i chose vuejs framework? </h4>
+<h4> Why I chose vuejs framework? </h4>
 
-Simply, vuejs has a big community, especially vuejs and laravel. Vue js is widely used all over the world. Do you know that Nentendre wibsite, Gitlab, Laracast, Laravel Vapor and other well-known sites are developed with vuejs.
+Simply, vuejs has a big community, especially vuejs and laravel. Vue js is widely used all over the world. Do you know that Nentendre website, Gitlab, Laracast, Laravel Vapor and other well-known sites are developed with vuejs.
 
 This is definitely the framework I recommend for frontend development.
 
